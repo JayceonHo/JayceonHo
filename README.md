@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Welcome to visit my homepage, my research interests include Medical AI, Computer Vision and Graph Learning.
+
+I'm open to collaborations and internships focused on developing interesting AI techniques.
 <!--
 **JayceonHo/JayceonHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
