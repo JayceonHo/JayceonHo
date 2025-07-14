@@ -2,7 +2,9 @@
 
 Welcome to visit my homepage, my research interests include Medical AI, Computer Vision and Graph Learning.
 
-I'm open to collaborations and internships focused on developing interesting AI techniques.
+I'm open to collaborations and internships focused on developing interesting AI techniques. 
+
+Please feel free to contact me via jc.hou@outlook.com
 <!--
 **JayceonHo/JayceonHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
