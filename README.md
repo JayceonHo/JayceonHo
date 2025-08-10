@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-Welcome to visit my homepage, my research interests include Medical AI, Computer Vision and Graph Learning.
+Welcome to visit my homepage, I'm a second-year PhD student at SIGS, Tsinghua University.
+
+My research interests lie in Multi-modal Learning, Medical AI, Computer Vision and Graph Learning.
 
 I'm open to collaborations and internships focused on developing interesting AI techniques. 
 
