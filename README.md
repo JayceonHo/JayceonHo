@@ -4,9 +4,9 @@ Welcome to visit my homepage, I'm a second-year PhD student at SIGS, Tsinghua Un
 
 My research interests lie in Multi-modal Learning, Medical AI, Computer Vision and Graph Learning.
 
-I'm open to collaborations and internships focused on developing interesting AI techniques. 
+I'm looking forward to potential collaborations and internships focused on developing interesting AI techniques. 
 
-Please feel free to contact me via jc.hou@outlook.com
+Please feel free to drop me an email via jc.hou@outlook.com
 <!--
 **JayceonHo/JayceonHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
