@@ -4,7 +4,7 @@ Welcome to visit my homepage, I'm a second-year PhD student at SIGS, Tsinghua Un
 
 My research interests lie in Multi-modal Learning, Medical AI, Computer Vision and Graph Learning.
 
-I'm looking potential collaborations and internships focused on developing interesting AI techniques. 
+I'm looking for collaborations and internships centered on developing interesting AI techniques. 
 
 Please feel free to drop me an email via jc.hou@outlook.com
 <!--
